@@ -2,7 +2,7 @@
 * {
     margin: 0px;
     padding: 10px;
-    /*box-sizing: border-box;*/
+    box-sizing: border-box;
 }
 
 /* Configuración de la fuente para el cuerpo del documento */
